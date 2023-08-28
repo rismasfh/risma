@@ -1,6 +1,11 @@
 h1 {
+  /*Gantikan warna ke #ff0000*/
   color: #ff0000;
+}
+
+p{
   /*Gantikan font-size ke 40px*/
 font-size: 40px;
-  /*Gantikan font family ke serif*/
-font-family: serif;
+  /*Gantikan wwrna ke #ff0000*/
+  color: #ff0000;
+}
