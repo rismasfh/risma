@@ -4,9 +4,6 @@ body {
 
 li {
   list-style: none;
-  float: left;
-  /* Ubahlah padding atas & bawah ke 33px, dan padding kiri & kanan ke 20px */
-  padding: 33px 20px;
 }
 
 .header {
@@ -22,11 +19,27 @@ li {
   padding: 20px 40px;
 }
 
-.main {
-  background-color: #bdf7f1;
-  height: 600px;
+.header-list li {
+  float: left;
+  padding: 33px 20px;
 }
 
+.main {
+ Padding: 100px 80px;
+}
+
+.copy-container h1 {
+font-size: 140px;
+}
+
+.copy-container h2 {
+font-size: 60px;
+}
+
+.copy-container span {
+  color: #ff4a4a;
+}
+  
 .footer {
   background-color: #2f5167;
   color: #fff;
