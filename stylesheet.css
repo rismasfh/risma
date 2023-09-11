@@ -1,21 +1,28 @@
-h1 {
-  /*Gantikan warna ke #ff0000*/
-  color: #990033;
-  width: 500px;
-  height: 80px;
-  background-color: #9de8ea;
+body {
+  font-family: "Avenir Next";
 }
 
-img {
-  height: 50px;
-  widht: 70px;
-  float:right;
+li {
+  list-style: none;
+  float: left;
+  /* Ubahlah padding atas & bawah ke 33px, dan padding kiri & kanan ke 20px */
+  padding: 33px 20px;
 }
-p{
-  /*Gantikan font-size ke 40px*/
-font-size: 40px;
-  /*Gantikan wwrna ke #ff0000*/
-  color: #ff0000;
+
+.header {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
 }
-body {
-  font-family: "Avenir"
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  /* Ubahlah padding atas & bawah ke 20px, dan padding kiri & kanan ke 40px */
+  padding: 20px 40px;
+}
+
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
+}
