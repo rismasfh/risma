@@ -50,6 +50,7 @@ font-size: 60px;
 
 .contents-item {
   float: left;
+  margin-right: 40px;
 }
 
 .footer {
