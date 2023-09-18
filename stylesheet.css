@@ -24,16 +24,31 @@ li {
   padding: 33px 20px;
 }
 
+
 .main {
- padding: 100px 80px;
+  padding-top: 180px;
+  padding-bottom: 100px;
+  color: white;
+  backround-image: url(https://id.pinterest.com/pin/1121959325903232693/);
+  
 }
 
 .copy-container h1 {
-font-size: 140px;
+  font-size: 140px;
+  width: 1170px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .copy-container h2 {
-font-size: 60px;
+  font-size: 60px;
+  width: 1170px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .copy-container span {
