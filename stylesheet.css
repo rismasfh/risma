@@ -24,11 +24,40 @@ li {
   padding: 33px 20px;
 }
 
+.container {
+  width: 1170px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+} 
+
+.btn {
+  padding:
+  color:
+  display:
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+.btn-wrapper {
+  margin: 20px 0;
+}
 
 .main {
   padding-top: 180px;
   padding-bottom: 100px;
   backround-image: url(https://i.pinimg.com/564x/4f/74/e5/4f74e5bdd88c43c637e6adcfa110ec72.jpg);
+  backround-size: ;
+  cover: ;
 }
 
 .main h1 {
